@@ -1,5 +1,9 @@
 #! /usr/bin/env python
 
+# PyProxyPass: http://github.com/TermiT/PyProxyPass/
+# Author: Gennadiy Potapov <drtermit@gmail.com>
+# License: MIT
+
 import SocketServer
 import SimpleHTTPServer
 import urllib2
